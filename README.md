@@ -14,11 +14,6 @@
 <img align="center" alt="Leya-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="Leya-jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
 
-##
-
-<div>
-  
-  ![Snake animation](https://github.com/Leyazita/Leyazita/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
